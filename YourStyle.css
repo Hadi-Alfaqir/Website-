@@ -1,0 +1,57 @@
+/* set styles for body */
+html, body {
+    height: 100%;
+    background-color: #dedfe0;
+    padding-top: 50px;
+}
+/* set the style for page-header to blue */
+.page-header{
+color: #7cbdff;}
+
+/* set the style for navbar brand blue */
+.navbar-brand{
+background-color: #7cbdff;
+}
+/* set the style for navbar background to black */
+.navbar{
+background-color: black;
+}
+
+/* Add your styles below with commenst */
+
+/*Establish offwhite background color and width of div box*/
+
+.main-body {background-color: #fcfdff;
+box-sizing: border-box;
+width: 95%;
+height: 90%;
+margin: auto;;}
+
+.main-body img {margin: auto;
+margin-top: 80px;}
+
+/*Center Iframe*/
+iframe {margin: auto;
+	display: block;}
+	
+	
+	/*Establish table display classes, background blue, padding, global strong headings, 1px black border*/
+	table {background-color: #d1e2ff;
+	text-align: center}
+	
+	tr {padding: 5px;}
+	td {padding: 10px;}
+	
+	tr {border: 1px solid #000;}
+	
+	td {border: 1px solid #000;}
+	
+	table h5 {font-weight: bold;
+	;}
+	
+	/*Move form over*/
+	form {padding: 60px;}
+	
+	/*display social media links inline*/
+	
+	li {display: inline;}
